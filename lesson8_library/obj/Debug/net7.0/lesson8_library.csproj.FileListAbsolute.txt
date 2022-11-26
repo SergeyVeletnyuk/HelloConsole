@@ -1,0 +1,15 @@
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/bin/Debug/net7.0/lesson8_library
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/bin/Debug/net7.0/lesson8_library.deps.json
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/bin/Debug/net7.0/lesson8_library.runtimeconfig.json
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/bin/Debug/net7.0/lesson8_library.dll
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/bin/Debug/net7.0/lesson8_library.pdb
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.csproj.AssemblyReference.cache
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.AssemblyInfoInputs.cache
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.AssemblyInfo.cs
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.csproj.CoreCompileInputs.cache
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.dll
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/refint/lesson8_library.dll
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.pdb
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/lesson8_library.genruntimeconfig.cache
+/Users/sergejveletnuk/Desktop/С#lection/HelloConsole/lesson8_library/obj/Debug/net7.0/ref/lesson8_library.dll
